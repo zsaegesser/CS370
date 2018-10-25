@@ -27,3 +27,5 @@ Assignment 1: Project Euler 13
 
 4. We oriinally used the 'testscript.py' file to generate the 'output.txt' files. We could do this because Python has built in BigIntegers, but after generating the output files we changed its use to just reading the output files and comparing them with the output of 'largesum.js'.
 5. In order to run the 'largesum.js' program with any set of data, you will need to put the data in the file called `input.txt`. The output will be given in the terminal window.
+
+

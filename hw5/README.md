@@ -17,3 +17,5 @@ Assignment 5: Scramble Squares Puzzle Solver
     If you do not have pip installed, you can do so by following the guide [here](https://pip.pypa.io/en/stable/installing/).
 
 2. Again, this is in Python version 3. Not in python version 2. It needs to be ran via python3 to work as designed. Additionally, it NEEDS numpy to function properly.
+
+
