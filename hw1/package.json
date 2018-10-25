@@ -1,0 +1,15 @@
+{
+  "name": "cs370_hw1_project_euler_13",
+  "version": "1.0.0",
+  "description": "Homework assignment 1 for CS 370. Group members are Aimal Wajihuddin, Zach Saegesser, and Ryan Edelstein",
+  "main": "app.js",
+  "scripts": {
+    "start": "node largesum.js"
+  },
+  "author": "Aimal Wajihuddin, Zach Saegesser, Ryan Edelstein",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  }
+}
+

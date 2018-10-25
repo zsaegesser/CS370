@@ -1,0 +1,136 @@
+
+/////////////////////////////////////////////////////////////////////
+Test 1
+
+Input:
+  abcabcabc
+  cbacbacba
+
+Output:
+  ababa
+  abaca
+  abacb
+  abcba
+  acaba
+  acaca
+  acacb
+  acbab
+  acbac
+  acbca
+  acbcb
+  babab
+  babac
+  babca
+  babcb
+  bacab
+  bacac
+  bacbc
+  bcaba
+  bcaca
+  bcacb
+  bcbab
+  bcbac
+  bcbca
+  bcbcb
+  cabab
+  cabac
+  cabca
+  cabcb
+  cacab
+  cacac
+  cacbc
+  cbabc
+  cbcab
+  cbcac
+  cbcbc
+
+/////////////////////////////////////////////////////////////////////
+Test 2
+
+Input:
+  abcdefghijklmnopqrstuvwxyz
+  abcdefghijklmnopgrstuvwxyz
+
+Output:
+  abcdefghijklmnoprstuvwxyz
+
+/////////////////////////////////////////////////////////////////////
+Test 3
+
+Input:
+  asdfghjkl
+  afhklas
+
+Output:
+  afhkl
+
+/////////////////////////////////////////////////////////////////////
+Test 4
+
+Input:
+  ab
+  bc
+
+Output:
+  b
+
+/////////////////////////////////////////////////////////////////////
+Test 5:
+
+Input:
+  uityr
+  tuitysrf
+
+Output:
+  uityr
+
+/////////////////////////////////////////////////////////////////////
+Test 6:
+
+Input:
+  apples
+  aregreen
+
+Output:
+  ae
+
+
+/////////////////////////////////////////////////////////////////////
+Test 7:
+
+Input:
+  this
+  homeworksucks
+
+Output:
+  hs
+
+/////////////////////////////////////////////////////////////////////
+Test 8:
+
+Input:
+  springbreakwas
+  wasted
+
+Output:
+  was
+
+/////////////////////////////////////////////////////////////////////
+Test 9:
+
+Input:
+  spojisdumb
+  iwanttoseeerrors
+
+Output:
+  sos
+
+/////////////////////////////////////////////////////////////////////
+Test 10:
+
+Input:
+  schoolisnot
+  real
+
+Output:
+  l

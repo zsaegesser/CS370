@@ -1,0 +1,70 @@
+5
+add wonder
+add ifthey
+add readthese
+add testcases
+find re
+
+BREAK
+6
+add doubt
+add it
+find it
+add still
+add doubtit
+find doub
+
+BREAK
+1
+find seven
+
+BREAK
+7
+add twinkle
+find twinkle
+add little
+add linter
+find li
+
+BREAK
+2
+add find
+find find
+
+BREAK
+2
+add professorpleasestandardizethese
+find professorpleasestandardizethese
+
+BREAK
+5
+add thisassignment
+find thi
+add lulwasntthat
+add lulbad
+find lul
+
+BREAK
+5
+find im
+add have
+add noidea
+add whatimdoing
+find no
+
+BREAK
+5
+add ima
+find tell
+add you
+find te
+find y
+
+BREAK
+5
+add i
+find require
+add your
+add strongest
+find potions
+
